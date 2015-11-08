@@ -1,0 +1,49 @@
+.personalholiday a 
+{
+  background-color: #0F3957 !important;
+  background-image :none !important;
+  color: #ffffff !important;
+}
+
+.publicholiday a 
+{
+  background-color: #00551E !important;
+  background-image :none !important;
+  color: #ffffff !important;
+}
+
+.americanholiday a 
+{
+  background-color: #0062a8 !important;
+  background-image :none !important;
+  color: #ffffff !important;
+}
+
+.personalholiday,
+.publicholiday,
+.americanholiday
+{
+  padding:3px;
+  color: #ffffff !important;
+  margin-top:35px;
+}
+
+.personalholiday 
+{
+  background-color: #0F3957 !important;  
+}
+
+.publicholiday
+{
+  background-color: #00551E !important;
+}
+
+.americanholiday
+{
+  background-color: #0062a8 !important;
+}
+
+div.ui-datepicker
+{
+  font-size:12px;
+}
