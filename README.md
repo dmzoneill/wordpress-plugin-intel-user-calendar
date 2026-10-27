@@ -1,5 +1,9 @@
 # Intel User Calendar WordPress Plugin
 
+<p align="center">
+  <img src=".github/logo.png" alt="wordpress-plugin-intel-user-calendar logo" width="128" />
+</p>
+
 A WordPress plugin that adds an **Intel User Calendar** widget showing
 holidays and pay dates for Intel staff in Ireland.
 
